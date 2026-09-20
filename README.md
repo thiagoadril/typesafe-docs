@@ -1,8 +1,9 @@
 # TypeSafe AI Documentation
 
-Index containing 110 documents, organized in the original order of the documentation.
-
 #### All data was extracted from the website https://docs.typesafe.ai, in the order in which it appeared prior to removal.
+##### System One Models & Jev documentation. typesafe.ai documentation extracted in .md format for LLMs. Used to train LLMs.
+
+Index containing 110 documents, organized in the original order of the documentation.
 
 ## Content
 
