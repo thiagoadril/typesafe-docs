@@ -2,6 +2,8 @@
 
 Index containing 110 documents, organized in the original order of the documentation.
 
+#### All data was extracted from the website https://docs.typesafe.ai, in the order in which it appeared prior to removal.
+
 ## Content
 
 - [001 — Introduction](<./docs/001-introduction-typesafe-ai.md>)
