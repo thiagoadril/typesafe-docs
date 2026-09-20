@@ -1,8 +1,8 @@
-# Documentação TypeSafe AI
+# TypeSafe AI Documentation
 
-Índice com 110 documentos, organizado na ordem original da documentação.
+Index containing 110 documents, organized in the original order of the documentation.
 
-## Conteúdo
+## Content
 
 - [001 — Introduction](<./001-introduction-typesafe-ai.md>)
 - [002 — Quick Start](<./002-quick-start-typesafe-ai.md>)
